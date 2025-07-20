@@ -1,0 +1,135 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(SALIL HIREMATH) Tj
+0 -30 Td
+/F1 12 Tf
+(+91 6358802037 | salilhiremath2712@gmail.com | Jaipur, RJ) Tj
+0 -20 Td
+(LinkedIn: linkedin.com | GitHub: github.com | LeetCode: leetcode.com) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(B.Tech (Hons) CSE (IoT & IS), Manipal University Jaipur) Tj
+0 -15 Td
+(Expected Oct 2026 | GPA: 8.6) Tj
+
+0 -30 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F1 12 Tf
+(Software Intern - Irillic (Motherson Health Medical) | June 2025 - Present) Tj
+0 -15 Td
+(• Working on PID controller optimization for 4K laparoscopy machine) Tj
+0 -15 Td
+(• Improved response time of Auto exposure and Auto gain control by 15%) Tj
+
+0 -20 Td
+(PowerBI Intern - Celebal Technologies | June 2025 - Present) Tj
+0 -15 Td
+(• Developing business intelligence solutions and data visualization projects) Tj
+
+0 -20 Td
+(Project Intern - DRDO Combat Aircraft System Development | May 2024 - Aug 2024) Tj
+0 -15 Td
+(• Developed multi-model software solution for LCA Tejas radar warning receiver) Tj
+
+0 -30 Td
+/F1 16 Tf
+(SKILLS) Tj
+0 -20 Td
+/F1 12 Tf
+(Languages: Python, Java, JavaScript, HTML, Shell Scripting, Bash) Tj
+0 -15 Td
+(Frameworks/Tools: SAP, Socket.io, MongoDB, React.JS, Docker, PowerBI) Tj
+0 -15 Td
+(Core CS: DSA, OS, OOPs, Computer Networks, Embedded Systems) Tj
+
+0 -30 Td
+/F1 16 Tf
+(PROJECTS) Tj
+0 -20 Td
+/F1 12 Tf
+(ML Implementation for Advanced Flight Radar Receiver) Tj
+0 -15 Td
+(MediCure - AI Health Companion) Tj
+0 -15 Td
+(AI-Powered Analytics Engine for Sales Forecasting) Tj
+
+0 -30 Td
+/F1 16 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F1 12 Tf
+(CCNA: Introduction to Networks - Cisco Networking Academy) Tj
+0 -15 Td
+(Introduction to Generative AI - Google) Tj
+0 -15 Td
+(Linux Commands & Shell Scripting - IBM) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000002326 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2404
+%%EOF
